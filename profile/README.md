@@ -1,4 +1,4 @@
-## Sector 5 Development
+## Serverside
 
 FiveM deployment and server work — on live servers, with real players logged in.
 
@@ -25,6 +25,6 @@ Escrow-aware. Backup before overwrite. And we check the console says a resource 
 
 ---
 
-### 💬 [Join the Discord](https://discord.gg/7w9NgEgvY6)
+### 💬 [Join the Discord](https://discord.gg/pcPqdeqxcY)
 
 Free advice, install quotes, and Watchdog keys.
