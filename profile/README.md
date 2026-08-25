@@ -3,7 +3,7 @@
 **[https://serverside-bv6.pages.dev](https://serverside-bv6.pages.dev)**  ·  serversidestudio@gmail.com
 FiveM deployment and server work — on live servers, with real players logged in.
 
-### 🐕 [fivem-watchdog](https://github.com/Sector-5-Development/fivem-watchdog) — free, MIT
+### 🐕 [fivem-watchdog](https://github.com/Serverside-Studio/fivem-watchdog) — free, MIT
 
 Crash diagnosis for FiveM. txAdmin tells you the server went down; this tells you **why**,
 in plain English, in your Discord. Three Lua files, server-side only, nothing client-side —
