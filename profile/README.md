@@ -15,9 +15,9 @@ installed, two scripts fighting over the same command. Nothing is stored.
 | repo | what it does |
 |---|---|
 | 🐕 **[fivem-watchdog](https://github.com/Serverside-Studio/fivem-watchdog)** | Crash diagnosis in your Discord. txAdmin tells you the server went down; this tells you **why**, in plain English. Three Lua files, server-side only, nothing client-side — read the whole thing in five minutes before you install it. |
-| 🔍 **[fivem-vendor-config-diff](https://github.com/bryansanchez379-ui/fivem-vendor-config-diff)** | What a vendor update would **reset** in your tuned config, before you copy the file over. Matches list entries by identity, so a reordered shop list is not two hundred false changes. |
-| 📊 **[fivem-fleet-texture-audit](https://github.com/bryansanchez379-ui/fivem-fleet-texture-audit)** | What a vehicle fleet costs in texture memory, and how much is waste. On a real 203-car fleet: 17.6 GB of textures, **37% recoverable by compression alone**. |
-| ⚔️ **[wow-transmog-index](https://github.com/bryansanchez379-ui/wow-transmog-index)** | Reverse-indexes WoW item sources from Blizzard's API — item to boss, profession and transmog set. 19,065 items in about 120 KB. |
+| 🔍 **[fivem-vendor-config-diff](https://github.com/Serverside-Studio/fivem-vendor-config-diff)** | What a vendor update would **reset** in your tuned config, before you copy the file over. Matches list entries by identity, so a reordered shop list is not two hundred false changes. |
+| 📊 **[fivem-fleet-texture-audit](https://github.com/Serverside-Studio/fivem-fleet-texture-audit)** | What a vehicle fleet costs in texture memory, and how much is waste. On a real 203-car fleet: 17.6 GB of textures, **37% recoverable by compression alone**. |
+| ⚔️ **[wow-transmog-index](https://github.com/Serverside-Studio/wow-transmog-index)** | Reverse-indexes WoW item sources from Blizzard's API — item to boss, profession and transmog set. 19,065 items in about 120 KB. |
 
 All MIT. All run offline and none of them touch your server.
 
